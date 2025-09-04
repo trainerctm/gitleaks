@@ -1,0 +1,9 @@
+# Fake GitHub PAT (correct format, not valid)
+ghp_1234567890abcdef1234567890abcdef1234
+
+# Fake AWS Access Key & Secret (format only)
+AWS_ACCESS_KEY_ID=AKIAFAKEFAKEFAKEFAKE
+AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYFAKEKEY123
+
+# Fake Slack token format
+xoxb-123456789012-1234567890123-ABCdefGHIjklMNOpqrSTUvwx
